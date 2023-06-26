@@ -32,3 +32,5 @@ squares(i,1)=(a(i,1)+c(i,1))*x1(i,1)*0.5+(b(i,1)+d(i,1))*x2(i,1)*0.5+(a(i,1)+c(i
 squares(i,1)=squares(i,1)/1000000;
 sum=sum+squares(i,1);
 end
+
+
